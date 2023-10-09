@@ -1,0 +1,94 @@
+{
+"products":[
+{
+    "id": 1,
+    "image": "src/image/product-1-1.jpg",
+    "category": "Snack",
+    "name": "Seeds of Change Organic Quinoa, Brown, & Red Rice",
+    "manufacturer": "NestFood",
+    "price": 28.85,
+    "oldPrice": 32.8
+  },
+  {
+    "id": 2,
+    "image": "src/image/product-2-1.jpg",
+    "category": "Hodo Foods",
+    "name": "All Natural Italian-Style Chicken Meatballs",
+    "manufacturer": "Stouffer",
+    "price": 52.85,
+    "oldPrice": 55.8
+  },
+  {
+    "id": 3,
+    "image": "src/image/product-3-1.jpg",
+    "category": "Snack",
+    "name": "Angie’s Boomchickapop Sweet & Salty Kettle Corn",
+    "manufacturer": "StarKist",
+    "price": 48.85,
+    "oldPrice": 52.8
+  },
+  {
+    "id": 4,
+    "image": "src/image/product-4-1.jpg",
+    "category": "Vegetables",
+    "name": "Foster Farms Takeout Crispy Classic Buffalo Wings",
+    "manufacturer": "NestFood",
+    "price": 17.85,
+    "oldPrice": 19.8
+  },
+    {
+    "id": 5,
+    "image": "src/image/product-5-1.jpg",
+    "category": "Pet Foods",
+    "name": "Blue Diamond Almonds Lightly Salted Vegetables",
+    "manufacturer": "NestFood",
+    "price": 23.85,
+    "oldPrice": 25.8
+  },
+    {
+    "id": 6,
+    "image": "src/image/product-6-1.jpg",
+    "category": "Hodo Foods",
+    "name": "Chobani Complete Vanilla Greek Yogurt",
+    "manufacturer": "NestFood",
+    "price": 54.85,
+    "oldPrice": 55.8
+  },
+    {
+    "id": 7,
+    "image": "src/image/product-7-1.jpg",
+    "category": "Meats",
+    "name": "Canada Dry Ginger Ale – 2 L Bottle - 200ml - 400g",
+    "manufacturer": "NestFood",
+    "price": 28.85,
+    "oldPrice": 32.8
+  },
+    {
+    "id": 8,
+    "image": "src/image/product-8-1.jpg",
+    "category": "Snack",
+    "name": "Encore Seafoods Stuffed Alaskan Salmon",
+    "manufacturer": "NestFood",
+    "price": 35.85,
+    "oldPrice": 37.8
+  },
+{
+    "id": 9,
+    "image": "src/image/product-9-1.jpg",
+    "category": "Coffees",
+    "name": "Gorton’s Beer Battered Fish Fillets with soft paper",
+    "manufacturer": "Old El Paso",
+    "price": 23.85,
+    "oldPrice": 25.8
+  },
+  {
+    "id": 10,
+    "image": "src/image/product-10-1.jpg",
+    "category": "Cream",
+    "name": "Haagen-Dazs Caramel Cone Ice Cream Ketchup",
+    "manufacturer": "Tyson",
+    "price": 28.85,
+    "oldPrice": 32.8
+  }
+]
+}
